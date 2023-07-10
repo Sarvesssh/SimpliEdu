@@ -1,0 +1,34 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .vscode/settings.json
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   public/index.html
+#	new file:   src/About.jsx
+#	modified:   src/App.js
+#	deleted:    src/App.test.js
+#	new file:   src/Assets/images/design.jpg
+#	new file:   src/Assets/images/dev.jpg
+#	new file:   src/Assets/images/front end d.jpg
+#	new file:   src/Assets/images/hero-img.619f0cc8.png
+#	new file:   src/Assets/images/lap2.jpg
+#	new file:   src/Assets/images/web-design-and-development.jpg
+#	new file:   src/Assets/images/work5.jpg
+#	new file:   src/Assets/lap.avif
+#	new file:   src/Card.jsx
+#	new file:   src/Common.jsx
+#	new file:   src/Contact.jsx
+#	new file:   src/Footer.jsx
+#	new file:   src/Home.jsx
+#	new file:   src/NavBar.jsx
+#	new file:   src/Sdata.jsx
+#	new file:   src/Services.jsx
+#	modified:   src/index.css
+#	modified:   src/index.js
+#	deleted:    src/logo.svg
+#	deleted:    src/setupTests.js
+#
