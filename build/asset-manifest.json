@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SimpliEdu/static/css/main.18d477f1.css",
+    "main.js": "/SimpliEdu/static/js/main.6c6608f3.js",
+    "static/media/lap2.jpg": "/SimpliEdu/static/media/lap2.830851674489f1fb9abd.jpg",
+    "static/media/design.jpg": "/SimpliEdu/static/media/design.0a4893421f4eb80a395c.jpg",
+    "static/media/dev.jpg": "/SimpliEdu/static/media/dev.10415744af63cfffdcf2.jpg",
+    "static/media/hero-img.619f0cc8.png": "/SimpliEdu/static/media/hero-img.619f0cc8.53f1b5467e5095dc4126.png",
+    "static/media/front end d.jpg": "/SimpliEdu/static/media/front end d.8b6db9c80a2bf591456a.jpg",
+    "static/media/web-design-and-development.jpg": "/SimpliEdu/static/media/web-design-and-development.fdc360f90223895be0ec.jpg",
+    "static/media/work5.jpg": "/SimpliEdu/static/media/work5.094ec4a2224db8908873.jpg",
+    "index.html": "/SimpliEdu/index.html",
+    "main.18d477f1.css.map": "/SimpliEdu/static/css/main.18d477f1.css.map",
+    "main.6c6608f3.js.map": "/SimpliEdu/static/js/main.6c6608f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d477f1.css",
+    "static/js/main.6c6608f3.js"
+  ]
+}
